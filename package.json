@@ -1,11 +1,11 @@
 {
   "name": "godcraft-launcher",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "productName": "GodCraft Launcher",
   "description": "",
   "author": "kill032",
   "license": "MIT",
-  "homepage": "https://launcher.godcraft.it",
+  "homepage": "https://www.godcraft.it",
   "bugs": {
     "url": "https://discord.godcraft.it"
   },
