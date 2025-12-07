@@ -4,17 +4,17 @@
 title = "GodCraft Launcher"
 
 [ejs.landing]
-mediaGitHubURL = "#"
+mediaGitHubURL = "https://www.godcraft.it"
 mediaXURL = "#"
 mediaInstagramURL = "#"
 mediaYouTubeURL = "#"
-mediaDiscordURL = "#"
+mediaDiscordURL = "https://discord.godcraft.it"
 
 [ejs.settings]
-sourceGithubLink = "#"
-supportLink = "#"
+sourceGithubLink = "https://discord.godcraft.it"
+supportLink = "https://discord.godcraft.it"
 
 [ejs.welcome]
-welcomeHeader = "WELCOME TO GodCraft"
+welcomeHeader = "Benvenuto/a su GodCraft"
 welcomeDescription = ""
 welcomeDescCTA = "Copyright © 2025 GodCraft"
